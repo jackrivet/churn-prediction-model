@@ -1,4 +1,5 @@
 import smtplib
+import os
 import ssl
 from email.message import EmailMessage
 from datetime import date
