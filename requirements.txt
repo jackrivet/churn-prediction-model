@@ -1,0 +1,12 @@
+pandas
+numpy
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+shap
+imbalanced-learn
+openpyxl
+sqlalchemy
+pyodbc
+azure-identity
