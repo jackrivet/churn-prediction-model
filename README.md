@@ -1,5 +1,5 @@
 # Customer Termination Risk Pipeline
-An end-to-end churn risk prediction system built to support proactive outreach to at-risk school customers. The pipeline pulls SQL Server data, trains a neural network, calibrates predictions, explains model behavior, and generates visual + tabular reports that are automatically emailed.
+An end-to-end churn risk prediction system built to support proactive outreach to at-risk customers. The pipeline pulls SQL Server data, trains a neural network, calibrates predictions, explains model behavior, and generates visual + tabular reports that are automatically emailed.
 
 ## Workflow Overview
 - Pulls real-time data from MS SQL Server
