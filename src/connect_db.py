@@ -1,7 +1,7 @@
 import pyodbc
 def get_connection():
-    server = 'tcp:HRICSQLTSTP01.hps.com'
-    database = 'Analytics_Data'
+    server = ''
+    database = ''
     connection_string = (
         r"DRIVER=ODBC Driver 17 for SQL Server;"
         f"SERVER={server};"
